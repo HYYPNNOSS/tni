@@ -1,0 +1,311 @@
+{
+  "dir": "ltr",
+  "navbar": {
+    "brand": "TNI Group",
+    "nav": { "services": "Services", "about": "About", "contact": "Contact", "blog": "Blog" },
+    "cta": "Request a Quote"
+  },
+  "hero": {
+    "badge": "Logistics Expertise",
+    "title": "Freight Transport Morocco ↔ Europe",
+    "highlight": "Customs Clearance Included.",
+    "subtitle": "Reliable, fast and secure transport solutions for all your international needs.",
+    "cta_primary": "Request a Quote",
+    "cta_secondary": "Call Us"
+  },
+  "atouts": {
+    "heading": "Our Strategic Strengths",
+    "sub": "Logistics excellence at the service of your international growth.",
+    "items": [
+      { "title": "Field Expertise",        "desc": "Over 200 successful routes per year with in-depth knowledge of Morocco-Europe corridors." },
+      { "title": "Refrigerated Transport", "desc": "Strict cold chain compliance for your fresh and pharmaceutical products." },
+      { "title": "Multilingual Service",   "desc": "Expert customer support in French, Arabic and English for seamless communication." },
+      { "title": "Full Customs Clearance", "desc": "We handle all your import/export customs formalities in-house." }
+    ]
+  },
+  "services": {
+    "heading": "Our Dedicated Services",
+    "learn_more": "Learn more",
+    "items": [
+      { "title": "Standard",     "desc": "Dry freight and general goods. Guaranteed lead times of 3 to 5 days depending on the European destination." },
+      { "title": "Refrigerated", "desc": "High-tech temperature-controlled trucks. Real-time temperature monitoring 24/7." },
+      { "title": "Customs",      "desc": "Complete administrative assistance. Avoid customs delays and optimise your flows." }
+    ]
+  },
+  "about": {
+    "badge": "TNI Group Story",
+    "heading_plain": "15 Years of ",
+    "heading_accent": "Logistics Expertise",
+    "body": "Founded by Inès and Zerrif, two passionate experts, TNI Group was born from the desire to simplify trade between the Kingdom of Morocco and Europe.",
+    "stat1_value": "15+", "stat1_label": "Years of combined experience",
+    "stat2_value": "100%", "stat2_label": "Parcel traceability",
+    "quote1": "Logistics is first and foremost a matter of trust. We build bridges between nations.",
+    "quote1_author": "Inès, Co-Founder",
+    "quote2": "Our field expertise allows us to anticipate every challenge on the road.",
+    "quote2_author": "Zerrif, Co-Founder"
+  },
+  "about_page": {
+    "hero_badge": "Our Story",
+    "hero_title": "Two Experts,\nOne Shared Vision",
+    "hero_subtitle_accent": "TNI Group combines international strategy with hands-on field expertise.",
+    "hero_subtitle": "A human-centred approach to revolutionising Morocco-Europe logistics and creating borderless flows.",
+    "hero_cta": "Our approach",
+    "founders_heading": "Meet the Founders",
+    "founders": [
+      {
+        "name": "Inès Sudres",
+        "role": "Strategy & International Logistics",
+        "quote": "\"Logistics is a game of precision. My role is to turn customs complexity into a seamless journey for our partners.\"",
+        "exp": "8 years of strategic experience",
+        "exp_icon": "verified"
+      },
+      {
+        "name": "Zerrif Nasredine",
+        "role": "Operations & Field",
+        "quote": "\"The road never lies. After 200 trips, I learned that responsiveness is the only answer when the unexpected strikes.\"",
+        "exp": "7 years & 200+ field routes",
+        "exp_icon": "distance"
+      }
+    ],
+    "expertise_heading": "Our Expertise",
+    "expertise_sub": "Six areas where TNI Group makes the difference",
+    "expertise_items": [
+      { "icon": "local_shipping", "title": "Road Transport Morocco–Europe", "stat": "500+ routes/year" },
+      { "icon": "inventory_2",    "title": "Customs Management",            "stat": "0 unresolved blockages" },
+      { "icon": "ac_unit",        "title": "Cold & Perishables",            "stat": "Real-time traceability" },
+      { "icon": "groups",         "title": "Dedicated to SMEs & Mid-caps",  "stat": "5 = 50 pallets" },
+      { "icon": "schedule",       "title": "Seasonal Peaks",                "stat": "Guaranteed flexibility" },
+      { "icon": "analytics",      "title": "Visibility & Reporting",        "stat": "Dedicated dashboard" }
+    ],
+    "clients_badge": "They look like you",
+    "clients_heading": "Do you manage a Morocco–Europe corridor daily?",
+    "clients_body": "Unpredictable customs, perishable goods, unforgiving deadlines, seasonal peaks — discover how companies like yours have conquered these challenges with TNI Group.",
+    "clients_list": [
+      "SME citrus exporters",
+      "Agri-food manufacturers",
+      "Specialist B2B distributors"
+    ],
+    "values_heading": "Our Core Values",
+    "values_sub": "What guides every single shipment we make",
+    "values_items": [
+      { "icon": "visibility",    "title": "Transparency",     "desc": "No hidden fees, real-time geolocation tracking." },
+      { "icon": "support_agent", "title": "Personalised",     "desc": "A single dedicated contact who knows your business." },
+      { "icon": "verified_user", "title": "Professionalism",  "desc": "Administrative rigour and full regulatory compliance." },
+      { "icon": "translate",     "title": "Multilingual",     "desc": "We speak your language and that of your partners." },
+      { "icon": "diversity_3",   "title": "Parity",           "desc": "Equal women and men — our collective strength." }
+    ],
+    "engagement_badge": "Our philosophy",
+    "engagement_quote": "\"SMEs deserve world-class logistics.\"",
+    "engagement_body": "5 pallets or 100 — operational rigour does not depend on the size of your account.",
+    "engagement_items": [
+      { "icon": "schedule", "label": "24/7 availability" },
+      { "icon": "bolt",     "label": "15-min response" },
+      { "icon": "person",   "label": "Single point of contact" },
+      { "icon": "visibility","label": "Zero hidden costs" }
+    ],
+    "vision_heading": "Vision & Future",
+    "vision_milestones": [
+      { "year": "2026", "label": "Fleet Doubled",    "icon": "local_shipping", "highlight": false, "detail": null },
+      { "year": "2027", "label": "Eastern Europe Hub","icon": "warehouse",      "highlight": false, "detail": null },
+      { "year": "2030", "label": "CO₂ –50%",         "icon": "eco",            "highlight": true,  "detail": "Reducing our CO₂ emissions by 50% by 2030" }
+    ],
+    "reviews_heading": "What our clients say",
+    "reviews_sub": "Partners on the Morocco–Europe corridor",
+    "reviews": [
+      { "name": "Rachid B.",  "role": "Logistics Director",     "review": "During our clementine season, TNI Group managed a peak of 40 trucks in one week with zero document delays.", "avatar": "R" },
+      { "name": "Sofia M.",   "role": "Supply Chain Manager",   "review": "I receive an alert the moment there is any customs issue, before I even have to ask. A true partner.", "avatar": "S" },
+      { "name": "Karim A.",   "role": "Business Owner",         "review": "We're an SME, not a major account. But at TNI Group, we're treated with the same seriousness as the big players.", "avatar": "K" },
+      { "name": "Nadia T.",   "role": "Export Manager",         "review": "Cold chain maintained 100% from Taroudant to Rungis. Not a single lost product in 18 months.", "avatar": "N" },
+      { "name": "Youssef E.", "role": "Commercial Director",    "review": "TNI resolved in one day a customs blockage that had been paralysing us for 4 days. Exceptional expertise.", "avatar": "Y" },
+      { "name": "Leila H.",   "role": "CEO",                    "review": "Even with small volumes, we had a dedicated contact and real follow-up. TNI Group has grown alongside us.", "avatar": "L" }
+    ],
+    "cta_heading": "Let's talk about your project",
+    "cta_body": "Inès and Zerrif are ready to help you design your next logistics chain.",
+    "cta_cards": [
+      { "icon": "call",  "label": "Phone",    "sub": "Immediate response" },
+      { "icon": "mail",  "label": "Email",    "sub": "Within 2 hours" },
+      { "icon": "forum", "label": "WhatsApp", "sub": "Direct advice" }
+    ]
+  },
+  "process": {
+    "heading": "Our 5-Step Process",
+    "steps": [
+      { "title": "Quick Quote",  "sub": "Instant estimate" },
+      { "title": "Planning",     "sub": "Route optimisation" },
+      { "title": "Pick-up",      "sub": "Collection at your site" },
+      { "title": "Customs",      "sub": "Full formalities" },
+      { "title": "Delivery",     "sub": "Hand-to-hand delivery" }
+    ]
+  },
+  "why": {
+    "heading": "Why choose TNI Group?",
+    "tni_label": "TNI Group Service",
+    "competitor_label": "Big Logistics Corp",
+    "items": [
+      { "title": "Direct Personalised Service", "desc": "Unlike large multinationals, you have a single dedicated contact for your file." },
+      { "title": "Maximum Responsiveness",      "desc": "Quote responses in under 2 hours and total flexibility in the face of unexpected events." },
+      { "title": "Transparent Pricing",         "desc": "No hidden costs. Our quotes include taxes and customs fees for complete clarity." }
+    ],
+    "checklist": ["24/7 Human Support", "In-house Customs Expertise", "Competitive Flexible Pricing"]
+  },
+  "contact": {
+    "phone_heading": "Call us directly",
+    "phone_number": "+212 5XX XX XX XX",
+    "phone_hours": "Available Mon to Fri, 8am - 6pm",
+    "offices_heading": "Our Offices",
+    "offices": [
+      { "city": "Casablanca, Morocco", "addr": "Industrial Zone, Boulevard Mohamed V" },
+      { "city": "Madrid, Spain",       "addr": "Centro de Carga Aérea, Barajas" }
+    ]
+  },
+  "form": {
+    "heading": "Ready to ship?",
+    "sub": "Our experts will get back to you within 2 hours.",
+    "steps": ["You", "Transport", "Send"],
+    "step_icons": ["person", "local_shipping", "send"],
+    "success_title": "Request sent!",
+    "success_body": "Thank you {{name}}. We will contact you at {{email}} within 2 hours.",
+    "new_request": "New request",
+    "fields": {
+      "nom": "Full name", "entreprise": "Company", "email": "Email",
+      "telephone": "Phone", "depart": "Departure (Morocco)", "arrivee": "Arrival (Europe)",
+      "marchandise": "Merchandise type", "sens": "Direction", "frequence": "Frequency",
+      "volume": "Volume", "message": "Message"
+    },
+    "placeholders": {
+      "nom": "John Smith", "entreprise": "Your company", "email": "john@company.com",
+      "telephone": "+44 7XX XX XX XX", "depart": "Casablanca", "arrivee": "Madrid",
+      "volume": "12 pallets / 30 m³", "message": "Additional details..."
+    },
+    "marchandise_options": ["Standard", "Refrigerated", "Other"],
+    "sens_options": ["Morocco → Europe", "Europe → Morocco"],
+    "frequence_options": ["One-time", "Regular"],
+    "optional": "opt.", "required": "required",
+    "consent": "I agree to be contacted by TNI Group regarding my request.",
+    "summary_labels": {
+      "nom": "Name", "entreprise": "Company", "email": "Email", "telephone": "Tel.",
+      "sens": "Direction", "trajet": "Route", "marchandise": "Goods",
+      "frequence": "Frequency", "volume": "Volume"
+    },
+    "btn_continue": "Continue", "btn_back": "Back", "btn_send": "Send my request"
+  },
+  "svc_page": {
+    "hero_title": "Freight Transport Morocco ↔ Europe",
+    "hero_sub": "All-in-one logistics solutions with included customs clearance for complete peace of mind between the two continents.",
+    "hero_cta_primary": "View our services",
+    "hero_cta_secondary": "Our Routes",
+    "standard_heading": "01. Standard Transport",
+    "standard_title": "Regular Links Casablanca/Tangier ↔ Madrid/Paris",
+    "standard_body": "We manage your general cargo flows with recognised expertise on the Morocco-Europe axis.",
+    "standard_stat1_label": "Goods",
+    "standard_stat1_val": "Pallets, Machinery, Textiles",
+    "standard_stat2_label": "Transit Time",
+    "standard_stat2_val": "5 to 7 Business Days",
+    "included_heading": "What's included",
+    "included_items": [
+      "Export/import customs clearance (Full Service)",
+      "Real-time goods tracking via GPS",
+      "AD VALOREM transport insurance included",
+      "Handling and load securing"
+    ],
+    "included_cta": "Request a Quote",
+    "frigo_badge": "Cold Chain",
+    "frigo_heading": "Expert Refrigerated Service",
+    "frigo_body": "Secure transport under controlled temperature for your sensitive products. Our fleet is equipped with the latest thermal monitoring technologies.",
+    "frigo_sector1": "Pharma Sector",
+    "frigo_sector2": "Food & Agriculture",
+    "frigo_temp_label": "Continuous control from +20°C to -25°C",
+    "frigo_monitor": "Live Monitoring",
+    "frigo_emergency": "Refrigerated emergency?",
+    "frigo_table_type": "Load Type",
+    "frigo_table_temp": "Temp. Range",
+    "frigo_rows": [
+      { "type": "Fresh Products",   "temp": "0°C / +4°C" },
+      { "type": "Frozen",           "temp": "-18°C / -25°C" },
+      { "type": "Thermo-sensitive", "temp": "+15°C / +25°C" }
+    ],
+    "customs_heading": "Customs Expertise",
+    "challenge_title": "The Challenge",
+    "challenge_body": "Administrative formalities between Morocco and the EU can paralyse your logistics chain: port blockages, nomenclature errors, unexpected taxes.",
+    "solution_title": "Our Solution",
+    "solution_body": "We handle formalities on both sides (Morocco & Europe). One invoice, zero administrative hassle for you.",
+    "multilang_label": "Native Multilingual Support:",
+    "faq_heading": "Customs FAQ",
+    "faq_items": [
+      { "q": "What documents do I need to provide?",      "a": "Commercial invoice, packing list and certificate of origin. We handle the rest." },
+      { "q": "How long does customs clearance take?",     "a": "Thanks to our approved operator status, transit generally takes between 4 and 12 hours." },
+      { "q": "Do you handle sanitary certificates?",      "a": "Yes, specifically for food products and seafood exports to Europe." }
+    ],
+    "cta_heading": "Your Direct Contacts",
+    "cta_cards": [
+      { "icon": "call",  "label": "Phone",    "sub": "Immediate response" },
+      { "icon": "mail",  "label": "Email",    "sub": "Within 2 hours" },
+      { "icon": "forum", "label": "WhatsApp", "sub": "Direct advice" }
+    ],
+    "process_heading": "5-Step Process",
+    "process_steps": [
+      { "title": "Request",     "sub": "Needs analysis" },
+      { "title": "Validation",  "sub": "Quote & planning" },
+      { "title": "Preparation", "sub": "Collection & Customs" },
+      { "title": "Transport",   "sub": "International Link" },
+      { "title": "Delivery",    "sub": "Final Destination" }
+    ],
+    "why_items": [
+      { "title": "Field Expertise", "desc": "Perfect command of Tanger Med and Algeciras port infrastructure." },
+      { "title": "Direct Contact",  "desc": "No automated platform. You speak directly with our logistics experts." },
+      { "title": "Multilingual",    "desc": "Fluent communication in French, Spanish, English and Darija." }
+    ]
+  },
+  "contact_page": {
+    "hero_badge": "Contact Us",
+    "hero_title_plain": "Get a Quote",
+    "hero_title_accent": "in Under 2 Hours",
+    "hero_body": "Describe your need and our experts will respond quickly with a personalised offer for your Morocco ↔ Europe shipments.",
+    "stats": [
+      { "value": "< 2h",  "label": "Response time", "icon": "schedule" },
+      { "value": "200+",  "label": "Routes / year",  "icon": "local_shipping" },
+      { "value": "100%",  "label": "Traceability",   "icon": "gps_fixed" }
+    ],
+    "phone_heading": "Call us directly",
+    "phone_number": "+212 5XX XX XX XX",
+    "phone_hours": "Available Mon to Fri, 8am – 6pm",
+    "email_heading": "Send us an email",
+    "email_address": "contact@tnigroup.ma",
+    "email_delay": "Guaranteed reply within 2 business hours",
+    "offices_heading": "Our Offices",
+    "offices": [
+      { "flag": "🇲🇦", "city": "Casablanca, Morocco", "addr": "Industrial Zone, Boulevard Mohamed V", "hours": "Mon–Fri 8am–6pm" },
+      { "flag": "🇪🇸", "city": "Madrid, Spain",        "addr": "Centro de Carga Aérea, Barajas",     "hours": "Mon–Fri 9am–5pm" }
+    ],
+    "why_badge": "Why choose us",
+    "why_items": [
+      { "icon": "verified_user", "text": "A single dedicated contact for your file" },
+      { "icon": "payments",      "text": "No hidden fees — customs included in quotes" },
+      { "icon": "gps_fixed",     "text": "Real-time tracking of your shipments" }
+    ]
+  },
+  "blog_page": {
+    "categories": ["All", "Customs", "Logistics", "Regulations", "SME Tips", "Guide", "Refrigerated Transport"],
+    "hero_title_plain": "Expertise & Insights",
+    "hero_title_italic": "Logistics",
+    "hero_body": "The practical guide to successfully exporting between Morocco and Europe.",
+    "empty_state": "No articles in this category yet.",
+    "by_authors": "By Inès & Zerrif",
+    "read_time_suffix": "read",
+    "read_article": "Read article",
+    "mid_cta_badge": "Our Vision",
+    "mid_cta_heading": "Sharing field experience to secure your shipments.",
+    "mid_cta_body": "Every article is the result of years of daily operations between Tangier and the rest of the world.",
+    "lead_badge": "Free Resource",
+    "lead_heading": "Complete Guide: Succeeding with your first Morocco-Europe export",
+    "lead_body": "Download our exclusive white paper including administrative checklists, pitfalls to avoid and key contacts for your international expansion.",
+    "lead_cta": "Download for Free",
+    "lead_book_label": "TNI GROUP",
+    "lead_book_title": "YOUR FIRST EXPORT: A COMPLETE GUIDE",
+    "lead_book_sub": "Whitepaper • 2025 Edition",
+    "bottom_heading": "A specific question?",
+    "bottom_body": "Talk directly with our founders for a personalised analysis of your logistics project.",
+    "bottom_cta_email": "Contact us by email",
+    "bottom_cta_meeting": "Book a consultation"
+  }
+}

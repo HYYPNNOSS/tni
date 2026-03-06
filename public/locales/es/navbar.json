@@ -1,0 +1,11 @@
+{
+  "brand": "TNI Group",
+  "nav": {
+    "services": "Servicios",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "blog": "Blog"
+  },
+  "cta": "Solicitar Presupuesto",
+  "dir": "ltr"
+}

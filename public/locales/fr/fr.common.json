@@ -1,0 +1,311 @@
+{
+  "dir": "ltr",
+  "navbar": {
+    "brand": "TNI Group",
+    "nav": { "services": "Services", "about": "À propos", "contact": "Contact", "blog": "Blog" },
+    "cta": "Demander un Devis"
+  },
+  "hero": {
+    "badge": "Expertise Logistique",
+    "title": "Transport de Marchandises Maroc ↔ Europe",
+    "highlight": "Dédouanement Inclus.",
+    "subtitle": "Solutions de transport fiables, rapides et sécurisées pour tous vos besoins internationaux.",
+    "cta_primary": "Demander un Devis",
+    "cta_secondary": "Appelez-nous"
+  },
+  "atouts": {
+    "heading": "Nos Atouts Stratégiques",
+    "sub": "L'excellence logistique au service de votre croissance internationale.",
+    "items": [
+      { "title": "Expertise Terrain",      "desc": "Plus de 200 trajets réussis par an avec une connaissance pointue des corridors Maroc-Europe." },
+      { "title": "Transport Frigorifique", "desc": "Respect rigoureux de la chaîne du froid pour vos produits frais et pharmaceutiques." },
+      { "title": "Service Multilingue",    "desc": "Support client expert en Français, Arabe et Anglais pour une communication fluide." },
+      { "title": "Dédouanement Complet",   "desc": "Nous gérons toutes vos formalités douanières import/export en interne." }
+    ]
+  },
+  "services": {
+    "heading": "Nos Services Dédiés",
+    "learn_more": "En savoir plus",
+    "items": [
+      { "title": "Standard",     "desc": "Fret sec et marchandises générales. Délais garantis de 3 à 5 jours selon la destination européenne." },
+      { "title": "Frigorifique", "desc": "Camions thermo-régulés haute technologie. Monitoring de température en temps réel 24/7." },
+      { "title": "Dédouanement", "desc": "Assistance administrative complète. Évitez les blocages en douane et optimisez vos flux." }
+    ]
+  },
+  "about": {
+    "badge": "Histoire de TNI Group",
+    "heading_plain": "15 Ans d'",
+    "heading_accent": "Expertise Logistique",
+    "body": "Fondée par Inès et Zerrif, deux experts passionnés, TNI Group est né de la volonté de simplifier les échanges commerciaux entre le Royaume du Maroc et le continent Européen.",
+    "stat1_value": "15+", "stat1_label": "Années d'expérience cumulées",
+    "stat2_value": "100%", "stat2_label": "Traçabilité des colis",
+    "quote1": "La logistique est une question de confiance avant tout. Nous bâtissons des ponts entre les nations.",
+    "quote1_author": "Inès, Co-Fondatrice",
+    "quote2": "Notre expertise terrain nous permet d'anticiper chaque défi de la route.",
+    "quote2_author": "Zerrif, Co-Fondateur"
+  },
+  "about_page": {
+    "hero_badge": "Notre Histoire",
+    "hero_title": "Deux Experts,\nUne Vision Commune",
+    "hero_subtitle_accent": "TNI Group allie stratégie internationale et expertise terrain.",
+    "hero_subtitle": "Une approche humaine pour révolutionner la logistique Maroc-Europe et créer des flux sans frontières.",
+    "hero_cta": "Notre approche",
+    "founders_heading": "Rencontrez les Fondateurs",
+    "founders": [
+      {
+        "name": "Inès Sudres",
+        "role": "Stratégie & Logistique Internationale",
+        "quote": "\"La logistique est un jeu de précision. Mon rôle est de transformer la complexité douanière en un parcours fluide pour nos partenaires.\"",
+        "exp": "8 ans d'expérience stratégique",
+        "exp_icon": "verified"
+      },
+      {
+        "name": "Zerrif Nasredine",
+        "role": "Opérations & Terrain",
+        "quote": "\"Le terrain ne ment jamais. Après 200 trajets, j'ai appris que la réactivité est la seule réponse face à l'imprévu.\"",
+        "exp": "7 ans & 200+ trajets terrain",
+        "exp_icon": "distance"
+      }
+    ],
+    "expertise_heading": "Notre Expertise",
+    "expertise_sub": "Six domaines où TNI Group fait la différence",
+    "expertise_items": [
+      { "icon": "local_shipping", "title": "Transport Routier Maroc–Europe", "stat": "500+ trajets/an" },
+      { "icon": "inventory_2",    "title": "Gestion Douanière",              "stat": "0 blocage non résolu" },
+      { "icon": "ac_unit",        "title": "Froid & Périssables",            "stat": "Traçabilité temps réel" },
+      { "icon": "groups",         "title": "Dédié PME & ETI",                "stat": "5 = 50 palettes" },
+      { "icon": "schedule",       "title": "Pics Saisonniers",               "stat": "Flexibilité garantie" },
+      { "icon": "analytics",      "title": "Visibilité & Reporting",         "stat": "Dashboard dédié" }
+    ],
+    "clients_badge": "Ils vous ressemblent",
+    "clients_heading": "Vous gérez un corridor Maroc–Europe au quotidien ?",
+    "clients_body": "Douanes imprévisibles, produits périssables, délais intransigeants, pics saisonniers — découvrez comment des entreprises comme la vôtre ont vaincu ces défis avec TNI Group.",
+    "clients_list": [
+      "PME exportatrices d'agrumes",
+      "Industriels agroalimentaires",
+      "Distributeurs spécialisés B2B"
+    ],
+    "values_heading": "Nos Valeurs Cardinales",
+    "values_sub": "Ce qui guide chacun de nos chargements",
+    "values_items": [
+      { "icon": "visibility",    "title": "Transparence",     "desc": "Aucun frais caché, géolocalisation temps réel." },
+      { "icon": "support_agent", "title": "Personnalisé",     "desc": "Un interlocuteur unique, une voix qui vous connaît." },
+      { "icon": "verified_user", "title": "Professionnalisme","desc": "Rigueur administrative et conformité totale." },
+      { "icon": "translate",     "title": "Multilinguisme",   "desc": "Nous parlons votre langue et celle de vos partenaires." },
+      { "icon": "diversity_3",   "title": "Parité",           "desc": "Autant de femmes que d'hommes — notre force collective." }
+    ],
+    "engagement_badge": "Notre philosophie",
+    "engagement_quote": "\"Les PME méritent une logistique de classe mondiale.\"",
+    "engagement_body": "5 palettes ou 100 — la rigueur opérationnelle ne dépend pas de la taille de votre compte.",
+    "engagement_items": [
+      { "icon": "schedule", "label": "H24 / 7j·7" },
+      { "icon": "bolt",     "label": "Réponse 15 min" },
+      { "icon": "person",   "label": "Interlocuteur unique" },
+      { "icon": "visibility","label": "Zéro frais cachés" }
+    ],
+    "vision_heading": "Vision & Futur",
+    "vision_milestones": [
+      { "year": "2026", "label": "Doublement Flotte", "icon": "local_shipping", "highlight": false, "detail": null },
+      { "year": "2027", "label": "Hub Europe Est",    "icon": "warehouse",      "highlight": false, "detail": null },
+      { "year": "2030", "label": "CO₂ –50%",          "icon": "eco",            "highlight": true,  "detail": "Réduction de nos émissions CO₂ d'ici 2030" }
+    ],
+    "reviews_heading": "Ce que disent nos clients",
+    "reviews_sub": "Des partenaires sur le corridor Maroc–Europe",
+    "reviews": [
+      { "name": "Rachid B.",  "role": "Directeur Logistique",    "review": "En pleine campagne de clémentines, TNI Group a géré un pic de 40 camions en une semaine sans un seul retard documentaire.", "avatar": "R" },
+      { "name": "Sofia M.",   "role": "Responsable Supply Chain","review": "Je reçois une alerte dès qu'il y a le moindre aléa douanier, avant même d'avoir à poser la question. Un vrai partenaire.", "avatar": "S" },
+      { "name": "Karim A.",   "role": "Gérant",                  "review": "On est une PME, pas un grand compte. Mais chez TNI Group, on est traités avec autant de sérieux que les gros.", "avatar": "K" },
+      { "name": "Nadia T.",   "role": "Export Manager",          "review": "La chaîne du froid respectée à 100%, de Taroudant jusqu'à Rungis. Aucune perte de marchandise en 18 mois.", "avatar": "N" },
+      { "name": "Youssef E.", "role": "Directeur Commercial",    "review": "TNI a résolu en une journée un blocage douanier qui nous paralysait depuis 4 jours. Maîtrise exceptionnelle.", "avatar": "Y" },
+      { "name": "Leila H.",   "role": "CEO",                     "review": "Même avec de petits volumes, on a eu droit à un interlocuteur dédié et un vrai suivi. TNI Group a su grandir avec nous.", "avatar": "L" }
+    ],
+    "cta_heading": "Parlons de votre projet",
+    "cta_body": "Inès et Zerrif sont à votre écoute pour concevoir votre prochaine chaîne logistique.",
+    "cta_cards": [
+      { "icon": "call",  "label": "Téléphone", "sub": "Réponse immédiate" },
+      { "icon": "mail",  "label": "Email",     "sub": "Sous 2 heures" },
+      { "icon": "forum", "label": "WhatsApp",  "sub": "Conseil direct" }
+    ]
+  },
+  "process": {
+    "heading": "Notre Processus en 5 Étapes",
+    "steps": [
+      { "title": "Devis Rapide",  "sub": "Estimation immédiate" },
+      { "title": "Planification", "sub": "Optimisation d'itinéraire" },
+      { "title": "Enlèvement",    "sub": "Pick-up chez vous" },
+      { "title": "Dédouanement",  "sub": "Formalités complètes" },
+      { "title": "Livraison",     "sub": "Remise en main propre" }
+    ]
+  },
+  "why": {
+    "heading": "Pourquoi choisir TNI Group ?",
+    "tni_label": "TNI Group Service",
+    "competitor_label": "Big Logistics Corp",
+    "items": [
+      { "title": "Service Personnalisé Direct", "desc": "Contrairement aux grandes multinationales, vous avez un interlocuteur unique dédié à votre dossier." },
+      { "title": "Réactivité Maximale",         "desc": "Réponse aux devis en moins de 2 heures et une flexibilité totale face aux imprévus." },
+      { "title": "Transparence Tarifaire",      "desc": "Aucun coût caché. Nos devis incluent les taxes et les frais de douane pour une clarté totale." }
+    ],
+    "checklist": ["Support Humain 24/7", "Expertise Douane Interne", "Prix Compétitifs Flexibles"]
+  },
+  "contact": {
+    "phone_heading": "Appelez-nous directement",
+    "phone_number": "+212 5XX XX XX XX",
+    "phone_hours": "Disponible du Lun au Ven, 8h - 18h",
+    "offices_heading": "Nos Bureaux",
+    "offices": [
+      { "city": "Casablanca, Maroc", "addr": "Zone Industrielle, Boulevard Mohamed V" },
+      { "city": "Madrid, Espagne",   "addr": "Centro de Carga Aérea, Barajas" }
+    ]
+  },
+  "form": {
+    "heading": "Prêt à expédier ?",
+    "sub": "Nos experts vous répondent en moins de 2h.",
+    "steps": ["Vous", "Transport", "Envoi"],
+    "step_icons": ["person", "local_shipping", "send"],
+    "success_title": "Demande envoyée !",
+    "success_body": "Merci {{name}}. Nous vous contacterons à {{email}} dans les 2 heures.",
+    "new_request": "Nouvelle demande",
+    "fields": {
+      "nom": "Nom et prénom", "entreprise": "Entreprise", "email": "Email",
+      "telephone": "Téléphone", "depart": "Départ (Maroc)", "arrivee": "Arrivée (Europe)",
+      "marchandise": "Type de marchandise", "sens": "Sens", "frequence": "Fréquence",
+      "volume": "Volume", "message": "Message"
+    },
+    "placeholders": {
+      "nom": "Jean Dupont", "entreprise": "Votre société", "email": "jean@entreprise.com",
+      "telephone": "+33 6 XX XX XX XX", "depart": "Casablanca", "arrivee": "Madrid",
+      "volume": "12 palettes / 30 m³", "message": "Détails supplémentaires..."
+    },
+    "marchandise_options": ["Standard", "Frigorifique", "Autre"],
+    "sens_options": ["Maroc → Europe", "Europe → Maroc"],
+    "frequence_options": ["Envoi unique", "Régulier"],
+    "optional": "opt.", "required": "requis",
+    "consent": "J'accepte d'être contacté par TNI Group concernant ma demande.",
+    "summary_labels": {
+      "nom": "Nom", "entreprise": "Entreprise", "email": "Email", "telephone": "Tél.",
+      "sens": "Sens", "trajet": "Trajet", "marchandise": "Marchandise",
+      "frequence": "Fréquence", "volume": "Volume"
+    },
+    "btn_continue": "Continuer", "btn_back": "Retour", "btn_send": "Envoyer ma demande"
+  },
+  "svc_page": {
+    "hero_title": "Transport de Marchandises Maroc ↔ Europe",
+    "hero_sub": "Solutions logistiques tout-en-un avec dédouanement inclus pour une sérénité totale entre les deux continents.",
+    "hero_cta_primary": "Voir nos services",
+    "hero_cta_secondary": "Nos Itinéraires",
+    "standard_heading": "01. Transport Standard",
+    "standard_title": "Liaisons Régulières Casablanca/Tanger ↔ Madrid/Paris",
+    "standard_body": "Nous gérons vos flux de marchandises générales avec une expertise reconnue sur l'axe Maroc-Europe.",
+    "standard_stat1_label": "Marchandises",
+    "standard_stat1_val": "Palettes, Machines, Textiles",
+    "standard_stat2_label": "Temps de Transit",
+    "standard_stat2_val": "5 à 7 Jours Ouvrés",
+    "included_heading": "Ce qui est inclus",
+    "included_items": [
+      "Dédouanement export/import (Full Service)",
+      "Suivi de marchandise en temps réel via GPS",
+      "Assurance transport AD VALOREM incluse",
+      "Manutention et sécurisation des charges"
+    ],
+    "included_cta": "Demander un Devis",
+    "frigo_badge": "Chaîne du Froid",
+    "frigo_heading": "Service Frigorifique Expert",
+    "frigo_body": "Transport sécurisé sous température contrôlée pour vos produits sensibles. Notre flotte est équipée des dernières technologies de surveillance thermique.",
+    "frigo_sector1": "Secteur Pharma",
+    "frigo_sector2": "Agro-alimentaire",
+    "frigo_temp_label": "Contrôle permanent de +20°C à -25°C",
+    "frigo_monitor": "Monitoring en Direct",
+    "frigo_emergency": "Besoin d'urgence frigorifique ?",
+    "frigo_table_type": "Type de Charge",
+    "frigo_table_temp": "Plage Temp.",
+    "frigo_rows": [
+      { "type": "Produits Frais",   "temp": "0°C / +4°C" },
+      { "type": "Surgelés",         "temp": "-18°C / -25°C" },
+      { "type": "Thermo-sensibles", "temp": "+15°C / +25°C" }
+    ],
+    "customs_heading": "Expertise Douanière",
+    "challenge_title": "Le Challenge",
+    "challenge_body": "Les formalités administratives entre le Maroc et l'UE peuvent paralyser votre chaîne logistique : blocages ports, erreurs de nomenclature, taxes imprévues.",
+    "solution_title": "Notre Solution",
+    "solution_body": "Nous gérons les formalités des deux côtés (Maroc & Europe). Une seule facture, zéro tracas administratif pour vous.",
+    "multilang_label": "Support Multilingue natif :",
+    "faq_heading": "FAQ Dédouanement",
+    "faq_items": [
+      { "q": "Quels documents dois-je fournir ?",            "a": "Facture commerciale, liste de colisage et certificat d'origine. On s'occupe du reste." },
+      { "q": "Combien de temps prend le passage en douane ?","a": "Grâce à notre statut d'opérateur agréé, le transit dure généralement entre 4 et 12 heures." },
+      { "q": "Gérez-vous les certificats sanitaires ?",      "a": "Oui, spécifiquement pour l'agro-alimentaire et les produits de la mer vers l'Europe." }
+    ],
+    "cta_heading": "Vos Interlocuteurs Directs",
+    "cta_cards": [
+      { "icon": "call",  "label": "Téléphone", "sub": "Réponse immédiate" },
+      { "icon": "mail",  "label": "Email",     "sub": "Sous 2 heures" },
+      { "icon": "forum", "label": "WhatsApp",  "sub": "Conseil direct" }
+    ],
+    "process_heading": "Processus en 5 Étapes",
+    "process_steps": [
+      { "title": "Demande",     "sub": "Analyse de vos besoins" },
+      { "title": "Validation",  "sub": "Devis et planification" },
+      { "title": "Préparation", "sub": "Collecte et Douane" },
+      { "title": "Transport",   "sub": "Liaison International" },
+      { "title": "Livraison",   "sub": "Destination Finale" }
+    ],
+    "why_items": [
+      { "title": "Expertise Terrain", "desc": "Une maîtrise parfaite des infrastructures portuaires de Tanger Med et d'Algésiras." },
+      { "title": "Contact Direct",    "desc": "Pas de plateforme automatisée. Vous parlez directement à nos experts logistiques." },
+      { "title": "Multilingue",       "desc": "Communication fluide en Français, Espagnol, Anglais et Darija." }
+    ]
+  },
+  "contact_page": {
+    "hero_badge": "Nous contacter",
+    "hero_title_plain": "Obtenez un Devis",
+    "hero_title_accent": "en Moins de 2h",
+    "hero_body": "Décrivez votre besoin, nos experts vous répondent rapidement avec une offre personnalisée pour vos transports Maroc ↔ Europe.",
+    "stats": [
+      { "value": "< 2h",  "label": "Temps de réponse", "icon": "schedule" },
+      { "value": "200+",  "label": "Trajets / an",      "icon": "local_shipping" },
+      { "value": "100%",  "label": "Traçabilité",       "icon": "gps_fixed" }
+    ],
+    "phone_heading": "Appelez-nous directement",
+    "phone_number": "+212 5XX XX XX XX",
+    "phone_hours": "Disponible du Lun au Ven, 8h – 18h",
+    "email_heading": "Envoyez-nous un email",
+    "email_address": "contact@tnigroup.ma",
+    "email_delay": "Réponse garantie en moins de 2h ouvrées",
+    "offices_heading": "Nos Bureaux",
+    "offices": [
+      { "flag": "🇲🇦", "city": "Casablanca, Maroc",  "addr": "Zone Industrielle, Boulevard Mohamed V", "hours": "Lun–Ven 8h–18h" },
+      { "flag": "🇪🇸", "city": "Madrid, Espagne",    "addr": "Centro de Carga Aérea, Barajas",         "hours": "Lun–Ven 9h–17h" }
+    ],
+    "why_badge": "Pourquoi nous choisir",
+    "why_items": [
+      { "icon": "verified_user", "text": "Interlocuteur unique dédié à votre dossier" },
+      { "icon": "payments",      "text": "Devis sans frais cachés, douane incluse" },
+      { "icon": "gps_fixed",     "text": "Suivi en temps réel de vos expéditions" }
+    ]
+  },
+  "blog_page": {
+    "categories": ["Tout", "Douanes", "Logistique", "Réglementations", "Conseils PME", "Guide", "Transport Frigorifique"],
+    "hero_title_plain": "Expertise & Conseils",
+    "hero_title_italic": "Logistique",
+    "hero_body": "Le guide pratique pour réussir vos exports entre le Maroc et l'Europe.",
+    "empty_state": "Aucun article dans cette catégorie pour le moment.",
+    "by_authors": "Par Inès & Zerrif",
+    "read_time_suffix": "de lecture",
+    "read_article": "Lire l'article",
+    "mid_cta_badge": "Notre Vision",
+    "mid_cta_heading": "Partager l'expérience du terrain pour sécuriser vos envois.",
+    "mid_cta_body": "Chaque article est le fruit d'années d'opérations quotidiennes entre Tanger et le reste du monde.",
+    "lead_badge": "Ressource Gratuite",
+    "lead_heading": "Guide Complet : Réussir son premier export Maroc-Europe",
+    "lead_body": "Téléchargez notre livre blanc exclusif incluant les checklists administratives, les pièges à éviter et les contacts clés pour votre expansion internationale.",
+    "lead_cta": "Télécharger Gratuitement",
+    "lead_book_label": "TNI GROUP",
+    "lead_book_title": "RÉUSSIR SON PREMIER EXPORT",
+    "lead_book_sub": "Whitepaper • 2025 Edition",
+    "bottom_heading": "Une question spécifique ?",
+    "bottom_body": "Discutez en direct avec nos fondateurs pour une analyse personnalisée de votre projet logistique.",
+    "bottom_cta_email": "Nous contacter par email",
+    "bottom_cta_meeting": "Réserver une consultation"
+  }
+}
