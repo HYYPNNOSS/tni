@@ -358,7 +358,7 @@ export default function TNIHomepage() {
         </div>
         <div style={{ display: 'flex', gap: 32, alignItems: 'center' }}>
           {['Services', 'À propos', 'Process', 'Contact'].map(item => (
-            <a key={item} href={`#${item.toLowerCase().replace(' ', '')}`} className="nav-link" style={{ display: window.innerWidth < 640 ? 'none' : undefined }}>{item}</a>
+            <a key={item} href={`#${item.toLowerCase().replace(' ', '')}`} className="nav-link " >{item}</a>
           ))}
           <button style={{ background: '#0035A1', color: '#fff', border: 'none', padding: '8px 20px', fontSize: 11, fontWeight: 700, letterSpacing: '0.1em', textTransform: 'uppercase', cursor: 'pointer' }}>
             Devis
